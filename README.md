@@ -1,3 +1,8 @@
+# Description of the project
+
+In this project there is a login form where user can login and also has some validation so user can type or input correct username and password after successfull login user will redirect to dashboard but user wnat to access that dashboard page without login he/she cannot access that page,so after login user can access verious jokes where he/she can enjoy and after that they can logout from that dashboard.
+thank you
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
